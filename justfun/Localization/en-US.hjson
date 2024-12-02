@@ -22,6 +22,11 @@ Mods: {
 				DisplayName: Mana heart
 				Tooltip: source of magic
 			}
+
+			Thestarhunter: {
+				DisplayName: star hunter
+				Tooltip: shoot down the star
+			}
 		}
 	}
 }
