@@ -22,6 +22,11 @@ Mods: {
 				DisplayName: 魔力源泉
 				Tooltip: ”含有大量亞空間能量“
 			}
+
+			Thestarhunter: {
+				DisplayName: 獵星者
+				Tooltip: 和連射相比，還是大口徑帶感。
+			}
 		}
 	}
 }
