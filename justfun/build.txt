@@ -1,0 +1,3 @@
+displayName = 一些道具
+author = wood_owo
+version = 0.2

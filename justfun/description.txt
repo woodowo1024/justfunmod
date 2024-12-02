@@ -1,0 +1,3 @@
+Some interesting thing
+I plan to change the synthesis table after the accessory is finished.
+It is expected to be one accessory for each occupation, plus survival and mobility accessory.

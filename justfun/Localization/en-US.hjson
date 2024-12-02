@@ -1,0 +1,27 @@
+Mods: {
+	justfun: {
+		Common.PaperAirplane: Paper Airplane
+
+		Items: {
+			RUSHcode666: {
+				DisplayName: rushcode666
+				Tooltip: RUSH!RUSH!
+			}
+
+			Whitefoodstallplasticchair: {
+				DisplayName: stallchair
+				Tooltip: if you want it,then you have to take it.
+			}
+
+			Extralargedronehangar: {
+				DisplayName: drone hangar
+				Tooltip: Big enough to fit a room
+			}
+
+			Manaheart00: {
+				DisplayName: Mana heart
+				Tooltip: source of magic
+			}
+		}
+	}
+}

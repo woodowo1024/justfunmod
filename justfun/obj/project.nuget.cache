@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0pAH95C3RM=",
+  "success": true,
+  "projectFilePath": "/Users/li/Library/Application Support/Terraria/tModLoader/ModSources/justfun/justfun.csproj",
+  "expectedPackageFiles": [
+    "/Users/li/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
