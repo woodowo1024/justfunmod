@@ -1,0 +1,32 @@
+Mods: {
+	justfun: {
+		// Common.PaperAirplane: Paper Airplane
+
+		Items: {
+			RUSHcode666: {
+				DisplayName: 极速轮椅
+				Tooltip: 冲otto冲
+			}
+
+			Whitefoodstallplasticchair: {
+				DisplayName: 大排档椅
+				Tooltip: 抛瓦！！！
+			}
+
+			Extralargedronehangar: {
+				DisplayName: 盒装无人机库
+				Tooltip: 鬼知道这么小的盒子是怎么装下那么多东西的
+			}
+
+			Manaheart00: {
+				DisplayName: 魔力源泉
+				Tooltip: ”含有大量亞空間能量“
+			}
+
+			Thestarhunter: {
+				DisplayName: 獵星者
+				Tooltip: 和連射相比，還是大口徑帶感。
+			}
+		}
+	}
+}
